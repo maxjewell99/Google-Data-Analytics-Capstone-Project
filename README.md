@@ -23,3 +23,9 @@ Throughout this project, I enhanced my skills in data cleaning, exploratory data
 
 ## Next Steps
 For this project I kept it streamlined with using one software, being Google Sheets. However, after exploring R during the course and finding it exciting to use, my next project will include R and it's visualisation capabilities.
+
+## Additional Resources
+I will leave links below to Google Sheets I that I used for analysis.
+https://docs.google.com/spreadsheets/d/1wkGr183bYLTRzLPmd_AZ1o9W7Z4DQZYR5Ov-8RHDOTU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1pwgXH6brcAdr6WP9wzfaj7Ou9zLNysKYEPLqJ7MjsFk/edit?usp=sharing
+https://docs.google.com/document/d/1orGgWXiLulNN-Y0fObttuTl8KzDzPizAEJmnZ99IxjY/edit?usp=sharing
