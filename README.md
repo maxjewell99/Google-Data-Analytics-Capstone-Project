@@ -16,6 +16,8 @@ The curriculum introduced me to various tools and software essential for modern 
 ## About Cyclistic
 Cyclistic is a bike-share system aiming to increase annual memberships by understanding how casual and annual riders use their bikes differently. This analysis explores ride patterns to inform marketing and operational strategies.
 
+My business task was to analyze and compare the usage behavior of annual members and casual riders using Cyclistic bike-share data, in order to provide data-driven insights that will support the development of targeted marketing strategies aimed at converting casual riders into annual members.
+
 
 ## What I Learned
 Throughout this project, I enhanced my skills in data cleaning, exploratory data analysis, data visualization, and business storytelling. I gained hands-on experience working with imperfect data and learned how to draw actionable insights for stakeholders.
